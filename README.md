@@ -2,7 +2,7 @@
 
 About Me:
 
-- 🔭 I’m currently working on a Web Dev
+- 🔭 I’m currently working on Web Dev
 - 🌱 I’m currently learning MERN Stack Web Development
 - 👯 I’m looking to collaborate with other Full Stack Developers
 
